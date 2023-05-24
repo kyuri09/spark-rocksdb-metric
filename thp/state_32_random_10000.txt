@@ -1,0 +1,564 @@
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [0]
+8535,3289
+ totalRocksDBLatency : 3289 rocksdbGetLatency : 2 rocksdbPutLatency : 34 rocksdbCommitWriteBatchLatency : 34 rocksdbCommitFlushLatency : 98 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 67 rocksdbCommitFileSyncLatency : 250 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1126 updateTimeMs : 2163 removeTimeMs : 0 numOfUpdatedRows : 35000 numInputRowSize : 650000 rocksdbReadBlockCacheHitCount : 0 rocksdbReadBlockCacheMissRatio : 0
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [1]
+2673,1318
+ totalRocksDBLatency : 1318 rocksdbGetLatency : 55 rocksdbPutLatency : 41 rocksdbCommitWriteBatchLatency : 41 rocksdbCommitFlushLatency : 78 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 78 rocksdbCommitFileSyncLatency : 190 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 797 updateTimeMs : 521 removeTimeMs : 0 numOfUpdatedRows : 63000 numInputRowSize : 1170000 rocksdbReadBlockCacheHitCount : 65520 rocksdbReadBlockCacheMissRatio : 715
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [2]
+1678,909
+ totalRocksDBLatency : 909 rocksdbGetLatency : 18 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 60 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 67 rocksdbCommitFileSyncLatency : 193 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 767 updateTimeMs : 141 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 32232 rocksdbReadBlockCacheMissRatio : 981
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [3]
+1979,1101
+ totalRocksDBLatency : 1101 rocksdbGetLatency : 25 rocksdbPutLatency : 24 rocksdbCommitWriteBatchLatency : 24 rocksdbCommitFlushLatency : 64 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 104 rocksdbCommitCheckpointLatency : 74 rocksdbCommitFileSyncLatency : 201 rocksdbTotalCompactionLatency : 44 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 946 updateTimeMs : 154 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 40525 rocksdbReadBlockCacheMissRatio : 882
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [4]
+1624,894
+ totalRocksDBLatency : 894 rocksdbGetLatency : 21 rocksdbPutLatency : 33 rocksdbCommitWriteBatchLatency : 33 rocksdbCommitFlushLatency : 62 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 72 rocksdbCommitFileSyncLatency : 184 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 760 updateTimeMs : 134 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 41373 rocksdbReadBlockCacheMissRatio : 1677
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [5]
+1560,854
+ totalRocksDBLatency : 854 rocksdbGetLatency : 16 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 73 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 75 rocksdbCommitFileSyncLatency : 190 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 747 updateTimeMs : 107 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 24339 rocksdbReadBlockCacheMissRatio : 528
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [6]
+1812,918
+ totalRocksDBLatency : 918 rocksdbGetLatency : 38 rocksdbPutLatency : 30 rocksdbCommitWriteBatchLatency : 30 rocksdbCommitFlushLatency : 61 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 73 rocksdbCommitFileSyncLatency : 187 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 759 updateTimeMs : 159 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 51219 rocksdbReadBlockCacheMissRatio : 505
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [7]
+1839,1131
+ totalRocksDBLatency : 1131 rocksdbGetLatency : 43 rocksdbPutLatency : 35 rocksdbCommitWriteBatchLatency : 35 rocksdbCommitFlushLatency : 67 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 116 rocksdbCommitCheckpointLatency : 70 rocksdbCommitFileSyncLatency : 199 rocksdbTotalCompactionLatency : 51 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 962 updateTimeMs : 169 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 67676 rocksdbReadBlockCacheMissRatio : 837
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [8]
+1555,859
+ totalRocksDBLatency : 859 rocksdbGetLatency : 17 rocksdbPutLatency : 24 rocksdbCommitWriteBatchLatency : 24 rocksdbCommitFlushLatency : 64 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 79 rocksdbCommitFileSyncLatency : 192 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 752 updateTimeMs : 106 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 30268 rocksdbReadBlockCacheMissRatio : 1441
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [9]
+1745,931
+ totalRocksDBLatency : 931 rocksdbGetLatency : 33 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 70 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 71 rocksdbCommitFileSyncLatency : 194 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 785 updateTimeMs : 146 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 62461 rocksdbReadBlockCacheMissRatio : 1305
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [10]
+1649,976
+ totalRocksDBLatency : 976 rocksdbGetLatency : 41 rocksdbPutLatency : 40 rocksdbCommitWriteBatchLatency : 40 rocksdbCommitFlushLatency : 98 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 78 rocksdbCommitFileSyncLatency : 204 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 824 updateTimeMs : 151 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 72412 rocksdbReadBlockCacheMissRatio : 758
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [11]
+1771,1078
+ totalRocksDBLatency : 1078 rocksdbGetLatency : 29 rocksdbPutLatency : 24 rocksdbCommitWriteBatchLatency : 24 rocksdbCommitFlushLatency : 65 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 130 rocksdbCommitCheckpointLatency : 72 rocksdbCommitFileSyncLatency : 197 rocksdbTotalCompactionLatency : 61 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 951 updateTimeMs : 127 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 41814 rocksdbReadBlockCacheMissRatio : 871
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [12]
+1670,938
+ totalRocksDBLatency : 938 rocksdbGetLatency : 37 rocksdbPutLatency : 29 rocksdbCommitWriteBatchLatency : 29 rocksdbCommitFlushLatency : 76 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 69 rocksdbCommitFileSyncLatency : 185 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 783 updateTimeMs : 154 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 74205 rocksdbReadBlockCacheMissRatio : 2487
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [13]
+1642,925
+ totalRocksDBLatency : 925 rocksdbGetLatency : 40 rocksdbPutLatency : 31 rocksdbCommitWriteBatchLatency : 31 rocksdbCommitFlushLatency : 70 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 76 rocksdbCommitFileSyncLatency : 203 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 769 updateTimeMs : 156 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 81017 rocksdbReadBlockCacheMissRatio : 1177
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [14]
+1531,863
+ totalRocksDBLatency : 863 rocksdbGetLatency : 27 rocksdbPutLatency : 22 rocksdbCommitWriteBatchLatency : 22 rocksdbCommitFlushLatency : 69 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 78 rocksdbCommitFileSyncLatency : 187 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 751 updateTimeMs : 111 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 43346 rocksdbReadBlockCacheMissRatio : 497
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [15]
+1850,1171
+ totalRocksDBLatency : 1171 rocksdbGetLatency : 61 rocksdbPutLatency : 29 rocksdbCommitWriteBatchLatency : 29 rocksdbCommitFlushLatency : 63 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 131 rocksdbCommitCheckpointLatency : 66 rocksdbCommitFileSyncLatency : 212 rocksdbTotalCompactionLatency : 66 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 989 updateTimeMs : 181 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 96436 rocksdbReadBlockCacheMissRatio : 1189
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [16]
+1741,973
+ totalRocksDBLatency : 973 rocksdbGetLatency : 41 rocksdbPutLatency : 23 rocksdbCommitWriteBatchLatency : 23 rocksdbCommitFlushLatency : 80 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 67 rocksdbCommitFileSyncLatency : 190 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 817 updateTimeMs : 155 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 90050 rocksdbReadBlockCacheMissRatio : 2832
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [17]
+1556,863
+ totalRocksDBLatency : 863 rocksdbGetLatency : 28 rocksdbPutLatency : 22 rocksdbCommitWriteBatchLatency : 22 rocksdbCommitFlushLatency : 63 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 82 rocksdbCommitFileSyncLatency : 189 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 753 updateTimeMs : 110 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 53839 rocksdbReadBlockCacheMissRatio : 970
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [18]
+1722,1006
+ totalRocksDBLatency : 1006 rocksdbGetLatency : 59 rocksdbPutLatency : 31 rocksdbCommitWriteBatchLatency : 31 rocksdbCommitFlushLatency : 74 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 73 rocksdbCommitFileSyncLatency : 211 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 827 updateTimeMs : 179 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 104369 rocksdbReadBlockCacheMissRatio : 1005
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [19]
+1886,1132
+ totalRocksDBLatency : 1132 rocksdbGetLatency : 35 rocksdbPutLatency : 33 rocksdbCommitWriteBatchLatency : 33 rocksdbCommitFlushLatency : 69 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 152 rocksdbCommitCheckpointLatency : 76 rocksdbCommitFileSyncLatency : 205 rocksdbTotalCompactionLatency : 73 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1009 updateTimeMs : 122 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 59064 rocksdbReadBlockCacheMissRatio : 1376
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [20]
+1714,938
+ totalRocksDBLatency : 938 rocksdbGetLatency : 46 rocksdbPutLatency : 30 rocksdbCommitWriteBatchLatency : 30 rocksdbCommitFlushLatency : 73 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 82 rocksdbCommitFileSyncLatency : 189 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 776 updateTimeMs : 162 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 105192 rocksdbReadBlockCacheMissRatio : 3108
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [21]
+1683,973
+ totalRocksDBLatency : 973 rocksdbGetLatency : 62 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 63 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 67 rocksdbCommitFileSyncLatency : 194 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 770 updateTimeMs : 203 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 120268 rocksdbReadBlockCacheMissRatio : 1689
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [22]
+1667,980
+ totalRocksDBLatency : 980 rocksdbGetLatency : 75 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 68 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 69 rocksdbCommitFileSyncLatency : 194 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 773 updateTimeMs : 207 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 137019 rocksdbReadBlockCacheMissRatio : 980
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [23]
+1861,1166
+ totalRocksDBLatency : 1166 rocksdbGetLatency : 47 rocksdbPutLatency : 32 rocksdbCommitWriteBatchLatency : 32 rocksdbCommitFlushLatency : 67 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 149 rocksdbCommitCheckpointLatency : 71 rocksdbCommitFileSyncLatency : 214 rocksdbTotalCompactionLatency : 85 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 990 updateTimeMs : 175 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 73053 rocksdbReadBlockCacheMissRatio : 1382
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [24]
+1698,983
+ totalRocksDBLatency : 983 rocksdbGetLatency : 58 rocksdbPutLatency : 36 rocksdbCommitWriteBatchLatency : 37 rocksdbCommitFlushLatency : 87 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 74 rocksdbCommitFileSyncLatency : 191 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 797 updateTimeMs : 186 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 126286 rocksdbReadBlockCacheMissRatio : 3378
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [25]
+1685,954
+ totalRocksDBLatency : 954 rocksdbGetLatency : 69 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 69 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 79 rocksdbCommitFileSyncLatency : 187 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 752 updateTimeMs : 201 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 131081 rocksdbReadBlockCacheMissRatio : 1823
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [26]
+1595,911
+ totalRocksDBLatency : 911 rocksdbGetLatency : 44 rocksdbPutLatency : 33 rocksdbCommitWriteBatchLatency : 33 rocksdbCommitFlushLatency : 85 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 75 rocksdbCommitFileSyncLatency : 185 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 774 updateTimeMs : 136 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 68899 rocksdbReadBlockCacheMissRatio : 726
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [27]
+2091,1270
+ totalRocksDBLatency : 1270 rocksdbGetLatency : 95 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 62 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 181 rocksdbCommitCheckpointLatency : 70 rocksdbCommitFileSyncLatency : 212 rocksdbTotalCompactionLatency : 89 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1021 updateTimeMs : 249 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 147836 rocksdbReadBlockCacheMissRatio : 2191
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [28]
+1691,952
+ totalRocksDBLatency : 952 rocksdbGetLatency : 65 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 61 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 86 rocksdbCommitFileSyncLatency : 188 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 747 updateTimeMs : 205 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 142123 rocksdbReadBlockCacheMissRatio : 3628
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [29]
+1711,974
+ totalRocksDBLatency : 974 rocksdbGetLatency : 74 rocksdbPutLatency : 33 rocksdbCommitWriteBatchLatency : 33 rocksdbCommitFlushLatency : 73 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 75 rocksdbCommitFileSyncLatency : 190 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 769 updateTimeMs : 205 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 148340 rocksdbReadBlockCacheMissRatio : 2045
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [30]
+1657,898
+ totalRocksDBLatency : 898 rocksdbGetLatency : 46 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 61 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 69 rocksdbCommitFileSyncLatency : 187 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 754 updateTimeMs : 144 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 78009 rocksdbReadBlockCacheMissRatio : 826
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [31]
+2162,1330
+ totalRocksDBLatency : 1330 rocksdbGetLatency : 103 rocksdbPutLatency : 32 rocksdbCommitWriteBatchLatency : 32 rocksdbCommitFlushLatency : 81 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 182 rocksdbCommitCheckpointLatency : 74 rocksdbCommitFileSyncLatency : 229 rocksdbTotalCompactionLatency : 98 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1080 updateTimeMs : 250 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 166212 rocksdbReadBlockCacheMissRatio : 2588
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [32]
+1731,969
+ totalRocksDBLatency : 969 rocksdbGetLatency : 72 rocksdbPutLatency : 29 rocksdbCommitWriteBatchLatency : 29 rocksdbCommitFlushLatency : 69 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 78 rocksdbCommitFileSyncLatency : 192 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 753 updateTimeMs : 215 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 153349 rocksdbReadBlockCacheMissRatio : 3848
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [33]
+1959,1104
+ totalRocksDBLatency : 1104 rocksdbGetLatency : 86 rocksdbPutLatency : 29 rocksdbCommitWriteBatchLatency : 29 rocksdbCommitFlushLatency : 68 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 71 rocksdbCommitFileSyncLatency : 236 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 858 updateTimeMs : 246 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 162463 rocksdbReadBlockCacheMissRatio : 2270
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [34]
+1888,1015
+ totalRocksDBLatency : 1015 rocksdbGetLatency : 94 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 55 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 67 rocksdbCommitFileSyncLatency : 214 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 775 updateTimeMs : 240 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 166602 rocksdbReadBlockCacheMissRatio : 1376
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [35]
+2274,1324
+ totalRocksDBLatency : 1324 rocksdbGetLatency : 104 rocksdbPutLatency : 33 rocksdbCommitWriteBatchLatency : 33 rocksdbCommitFlushLatency : 68 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 182 rocksdbCommitCheckpointLatency : 68 rocksdbCommitFileSyncLatency : 237 rocksdbTotalCompactionLatency : 106 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1074 updateTimeMs : 250 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 179971 rocksdbReadBlockCacheMissRatio : 2699
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [36]
+1729,987
+ totalRocksDBLatency : 987 rocksdbGetLatency : 76 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 67 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 66 rocksdbCommitFileSyncLatency : 196 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 766 updateTimeMs : 221 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 170287 rocksdbReadBlockCacheMissRatio : 4152
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [37]
+1544,861
+ totalRocksDBLatency : 861 rocksdbGetLatency : 45 rocksdbPutLatency : 22 rocksdbCommitWriteBatchLatency : 22 rocksdbCommitFlushLatency : 65 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 71 rocksdbCommitFileSyncLatency : 187 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 725 updateTimeMs : 136 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 88190 rocksdbReadBlockCacheMissRatio : 1496
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [38]
+1716,1062
+ totalRocksDBLatency : 1062 rocksdbGetLatency : 101 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 75 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 74 rocksdbCommitFileSyncLatency : 193 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 813 updateTimeMs : 249 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 186525 rocksdbReadBlockCacheMissRatio : 1842
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [39]
+2073,1324
+ totalRocksDBLatency : 1324 rocksdbGetLatency : 116 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 60 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 208 rocksdbCommitCheckpointLatency : 74 rocksdbCommitFileSyncLatency : 219 rocksdbTotalCompactionLatency : 113 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1053 updateTimeMs : 271 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 195967 rocksdbReadBlockCacheMissRatio : 3664
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [40]
+1728,1019
+ totalRocksDBLatency : 1019 rocksdbGetLatency : 82 rocksdbPutLatency : 34 rocksdbCommitWriteBatchLatency : 34 rocksdbCommitFlushLatency : 74 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 80 rocksdbCommitFileSyncLatency : 194 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 790 updateTimeMs : 229 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 189680 rocksdbReadBlockCacheMissRatio : 4412
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [41]
+1556,906
+ totalRocksDBLatency : 906 rocksdbGetLatency : 48 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 62 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 71 rocksdbCommitFileSyncLatency : 193 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 766 updateTimeMs : 139 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 97835 rocksdbReadBlockCacheMissRatio : 1579
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [42]
+1669,1039
+ totalRocksDBLatency : 1039 rocksdbGetLatency : 107 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 66 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 75 rocksdbCommitFileSyncLatency : 198 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 778 updateTimeMs : 261 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 200963 rocksdbReadBlockCacheMissRatio : 1999
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [43]
+2068,1367
+ totalRocksDBLatency : 1367 rocksdbGetLatency : 122 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 64 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 233 rocksdbCommitCheckpointLatency : 68 rocksdbCommitFileSyncLatency : 224 rocksdbTotalCompactionLatency : 124 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1094 updateTimeMs : 272 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 218323 rocksdbReadBlockCacheMissRatio : 4137
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [44]
+1710,1040
+ totalRocksDBLatency : 1040 rocksdbGetLatency : 91 rocksdbPutLatency : 30 rocksdbCommitWriteBatchLatency : 30 rocksdbCommitFlushLatency : 63 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 72 rocksdbCommitFileSyncLatency : 188 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 771 updateTimeMs : 268 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 206937 rocksdbReadBlockCacheMissRatio : 4674
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [45]
+1629,914
+ totalRocksDBLatency : 914 rocksdbGetLatency : 51 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 70 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 70 rocksdbCommitFileSyncLatency : 190 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 771 updateTimeMs : 142 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 104810 rocksdbReadBlockCacheMissRatio : 1663
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [46]
+1702,1034
+ totalRocksDBLatency : 1034 rocksdbGetLatency : 127 rocksdbPutLatency : 24 rocksdbCommitWriteBatchLatency : 24 rocksdbCommitFlushLatency : 63 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 67 rocksdbCommitFileSyncLatency : 197 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 741 updateTimeMs : 292 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 232483 rocksdbReadBlockCacheMissRatio : 2227
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [47]
+1997,1294
+ totalRocksDBLatency : 1294 rocksdbGetLatency : 71 rocksdbPutLatency : 24 rocksdbCommitWriteBatchLatency : 24 rocksdbCommitFlushLatency : 61 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 238 rocksdbCommitCheckpointLatency : 67 rocksdbCommitFileSyncLatency : 219 rocksdbTotalCompactionLatency : 135 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1119 updateTimeMs : 175 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 126253 rocksdbReadBlockCacheMissRatio : 4394
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [48]
+1661,989
+ totalRocksDBLatency : 989 rocksdbGetLatency : 95 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 61 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 67 rocksdbCommitFileSyncLatency : 187 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 730 updateTimeMs : 258 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 225018 rocksdbReadBlockCacheMissRatio : 4845
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [49]
+1777,1075
+ totalRocksDBLatency : 1075 rocksdbGetLatency : 114 rocksdbPutLatency : 32 rocksdbCommitWriteBatchLatency : 32 rocksdbCommitFlushLatency : 63 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 70 rocksdbCommitFileSyncLatency : 190 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 796 updateTimeMs : 279 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 234946 rocksdbReadBlockCacheMissRatio : 3064
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [50]
+1858,1066
+ totalRocksDBLatency : 1066 rocksdbGetLatency : 129 rocksdbPutLatency : 24 rocksdbCommitWriteBatchLatency : 24 rocksdbCommitFlushLatency : 60 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 72 rocksdbCommitFileSyncLatency : 191 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 759 updateTimeMs : 307 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 241022 rocksdbReadBlockCacheMissRatio : 1982
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [51]
+2191,1413
+ totalRocksDBLatency : 1413 rocksdbGetLatency : 147 rocksdbPutLatency : 30 rocksdbCommitWriteBatchLatency : 30 rocksdbCommitFlushLatency : 68 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 243 rocksdbCommitCheckpointLatency : 73 rocksdbCommitFileSyncLatency : 222 rocksdbTotalCompactionLatency : 133 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1081 updateTimeMs : 332 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 259460 rocksdbReadBlockCacheMissRatio : 4181
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [52]
+1787,1028
+ totalRocksDBLatency : 1028 rocksdbGetLatency : 101 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 62 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 73 rocksdbCommitFileSyncLatency : 184 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 752 updateTimeMs : 275 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 241399 rocksdbReadBlockCacheMissRatio : 5062
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [53]
+1667,952
+ totalRocksDBLatency : 952 rocksdbGetLatency : 61 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 72 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 86 rocksdbCommitFileSyncLatency : 188 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 792 updateTimeMs : 160 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 126522 rocksdbReadBlockCacheMissRatio : 1965
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [54]
+1749,1079
+ totalRocksDBLatency : 1079 rocksdbGetLatency : 137 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 73 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 79 rocksdbCommitFileSyncLatency : 190 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 769 updateTimeMs : 310 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 254677 rocksdbReadBlockCacheMissRatio : 2452
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [55]
+2303,1469
+ totalRocksDBLatency : 1469 rocksdbGetLatency : 153 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 63 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 282 rocksdbCommitCheckpointLatency : 73 rocksdbCommitFileSyncLatency : 234 rocksdbTotalCompactionLatency : 148 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1148 updateTimeMs : 321 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 272417 rocksdbReadBlockCacheMissRatio : 5559
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [56]
+1759,1062
+ totalRocksDBLatency : 1062 rocksdbGetLatency : 109 rocksdbPutLatency : 32 rocksdbCommitWriteBatchLatency : 32 rocksdbCommitFlushLatency : 83 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 71 rocksdbCommitFileSyncLatency : 201 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 764 updateTimeMs : 298 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 257718 rocksdbReadBlockCacheMissRatio : 5303
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [57]
+1832,1054
+ totalRocksDBLatency : 1054 rocksdbGetLatency : 129 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 60 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 75 rocksdbCommitFileSyncLatency : 187 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 722 updateTimeMs : 332 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 264357 rocksdbReadBlockCacheMissRatio : 3392
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [58]
+1788,1054
+ totalRocksDBLatency : 1054 rocksdbGetLatency : 147 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 66 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 67 rocksdbCommitFileSyncLatency : 196 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 727 updateTimeMs : 326 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 271029 rocksdbReadBlockCacheMissRatio : 2278
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [59]
+2121,1319
+ totalRocksDBLatency : 1319 rocksdbGetLatency : 92 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 61 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 272 rocksdbCommitCheckpointLatency : 67 rocksdbCommitFileSyncLatency : 222 rocksdbTotalCompactionLatency : 155 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1117 updateTimeMs : 201 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 152303 rocksdbReadBlockCacheMissRatio : 5039
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [60]
+1871,1059
+ totalRocksDBLatency : 1059 rocksdbGetLatency : 112 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 69 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 82 rocksdbCommitFileSyncLatency : 196 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 769 updateTimeMs : 290 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 272261 rocksdbReadBlockCacheMissRatio : 5475
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [61]
+1797,1051
+ totalRocksDBLatency : 1051 rocksdbGetLatency : 133 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 62 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 73 rocksdbCommitFileSyncLatency : 193 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 735 updateTimeMs : 315 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 282715 rocksdbReadBlockCacheMissRatio : 3600
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [62]
+1816,1105
+ totalRocksDBLatency : 1105 rocksdbGetLatency : 159 rocksdbPutLatency : 28 rocksdbCommitWriteBatchLatency : 28 rocksdbCommitFlushLatency : 60 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 71 rocksdbCommitFileSyncLatency : 187 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 739 updateTimeMs : 366 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 289662 rocksdbReadBlockCacheMissRatio : 2456
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [63]
+2318,1506
+ totalRocksDBLatency : 1506 rocksdbGetLatency : 177 rocksdbPutLatency : 30 rocksdbCommitWriteBatchLatency : 30 rocksdbCommitFlushLatency : 58 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 272 rocksdbCommitCheckpointLatency : 66 rocksdbCommitFileSyncLatency : 227 rocksdbTotalCompactionLatency : 158 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1119 updateTimeMs : 387 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 311496 rocksdbReadBlockCacheMissRatio : 5592
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [64]
+1891,1075
+ totalRocksDBLatency : 1075 rocksdbGetLatency : 120 rocksdbPutLatency : 28 rocksdbCommitWriteBatchLatency : 28 rocksdbCommitFlushLatency : 63 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 72 rocksdbCommitFileSyncLatency : 186 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 756 updateTimeMs : 319 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 291346 rocksdbReadBlockCacheMissRatio : 5630
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [65]
+1900,1180
+ totalRocksDBLatency : 1180 rocksdbGetLatency : 152 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 70 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 70 rocksdbCommitFileSyncLatency : 240 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 817 updateTimeMs : 362 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 300707 rocksdbReadBlockCacheMissRatio : 3760
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [66]
+2003,1147
+ totalRocksDBLatency : 1147 rocksdbGetLatency : 168 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 60 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 73 rocksdbCommitFileSyncLatency : 210 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 776 updateTimeMs : 371 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 312185 rocksdbReadBlockCacheMissRatio : 2603
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [67]
+2498,1632
+ totalRocksDBLatency : 1632 rocksdbGetLatency : 192 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 64 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 310 rocksdbCommitCheckpointLatency : 65 rocksdbCommitFileSyncLatency : 271 rocksdbTotalCompactionLatency : 174 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1222 updateTimeMs : 409 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 334431 rocksdbReadBlockCacheMissRatio : 6245
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [68]
+1899,1111
+ totalRocksDBLatency : 1111 rocksdbGetLatency : 140 rocksdbPutLatency : 32 rocksdbCommitWriteBatchLatency : 32 rocksdbCommitFlushLatency : 73 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 79 rocksdbCommitFileSyncLatency : 191 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 751 updateTimeMs : 360 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 324234 rocksdbReadBlockCacheMissRatio : 5998
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [69]
+1911,1153
+ totalRocksDBLatency : 1153 rocksdbGetLatency : 158 rocksdbPutLatency : 29 rocksdbCommitWriteBatchLatency : 29 rocksdbCommitFlushLatency : 63 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 76 rocksdbCommitFileSyncLatency : 213 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 791 updateTimeMs : 361 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 331440 rocksdbReadBlockCacheMissRatio : 3939
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [70]
+1758,1137
+ totalRocksDBLatency : 1137 rocksdbGetLatency : 181 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 68 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 77 rocksdbCommitFileSyncLatency : 180 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 751 updateTimeMs : 385 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 338340 rocksdbReadBlockCacheMissRatio : 2717
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [71]
+2283,1607
+ totalRocksDBLatency : 1607 rocksdbGetLatency : 208 rocksdbPutLatency : 30 rocksdbCommitWriteBatchLatency : 30 rocksdbCommitFlushLatency : 58 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 312 rocksdbCommitCheckpointLatency : 63 rocksdbCommitFileSyncLatency : 236 rocksdbTotalCompactionLatency : 179 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1184 updateTimeMs : 423 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 362892 rocksdbReadBlockCacheMissRatio : 6685
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [72]
+1719,1083
+ totalRocksDBLatency : 1083 rocksdbGetLatency : 138 rocksdbPutLatency : 28 rocksdbCommitWriteBatchLatency : 28 rocksdbCommitFlushLatency : 67 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 79 rocksdbCommitFileSyncLatency : 182 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 744 updateTimeMs : 339 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 337297 rocksdbReadBlockCacheMissRatio : 6185
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [73]
+1592,974
+ totalRocksDBLatency : 974 rocksdbGetLatency : 87 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 67 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 73 rocksdbCommitFileSyncLatency : 192 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 763 updateTimeMs : 211 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 173546 rocksdbReadBlockCacheMissRatio : 2465
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [74]
+1725,1101
+ totalRocksDBLatency : 1101 rocksdbGetLatency : 185 rocksdbPutLatency : 31 rocksdbCommitWriteBatchLatency : 31 rocksdbCommitFlushLatency : 54 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 72 rocksdbCommitFileSyncLatency : 186 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 712 updateTimeMs : 389 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 353262 rocksdbReadBlockCacheMissRatio : 3342
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [75]
+2442,1652
+ totalRocksDBLatency : 1652 rocksdbGetLatency : 212 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 60 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 332 rocksdbCommitCheckpointLatency : 67 rocksdbCommitFileSyncLatency : 238 rocksdbTotalCompactionLatency : 193 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1221 updateTimeMs : 430 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 377959 rocksdbReadBlockCacheMissRatio : 8320
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [76]
+1776,1118
+ totalRocksDBLatency : 1118 rocksdbGetLatency : 139 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 71 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 72 rocksdbCommitFileSyncLatency : 189 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 781 updateTimeMs : 337 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 347405 rocksdbReadBlockCacheMissRatio : 6389
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [77]
+1646,982
+ totalRocksDBLatency : 982 rocksdbGetLatency : 91 rocksdbPutLatency : 23 rocksdbCommitWriteBatchLatency : 23 rocksdbCommitFlushLatency : 63 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 74 rocksdbCommitFileSyncLatency : 190 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 759 updateTimeMs : 223 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 178340 rocksdbReadBlockCacheMissRatio : 2545
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [78]
+1661,990
+ totalRocksDBLatency : 990 rocksdbGetLatency : 99 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 74 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 73 rocksdbCommitFileSyncLatency : 189 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 765 updateTimeMs : 224 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 183376 rocksdbReadBlockCacheMissRatio : 2110
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [79]
+2510,1728
+ totalRocksDBLatency : 1728 rocksdbGetLatency : 228 rocksdbPutLatency : 31 rocksdbCommitWriteBatchLatency : 31 rocksdbCommitFlushLatency : 64 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 380 rocksdbCommitCheckpointLatency : 63 rocksdbCommitFileSyncLatency : 236 rocksdbTotalCompactionLatency : 197 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1280 updateTimeMs : 448 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 402687 rocksdbReadBlockCacheMissRatio : 10093
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [80]
+1875,1121
+ totalRocksDBLatency : 1121 rocksdbGetLatency : 156 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 61 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 77 rocksdbCommitFileSyncLatency : 191 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 742 updateTimeMs : 379 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 381140 rocksdbReadBlockCacheMissRatio : 6596
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [81]
+1871,1193
+ totalRocksDBLatency : 1193 rocksdbGetLatency : 189 rocksdbPutLatency : 36 rocksdbCommitWriteBatchLatency : 39 rocksdbCommitFlushLatency : 72 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 82 rocksdbCommitFileSyncLatency : 189 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 768 updateTimeMs : 424 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 400366 rocksdbReadBlockCacheMissRatio : 4013
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [82]
+1892,1200
+ totalRocksDBLatency : 1200 rocksdbGetLatency : 228 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 55 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 72 rocksdbCommitFileSyncLatency : 189 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 722 updateTimeMs : 478 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 427472 rocksdbReadBlockCacheMissRatio : 2429
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [83]
+2479,1736
+ totalRocksDBLatency : 1736 rocksdbGetLatency : 245 rocksdbPutLatency : 30 rocksdbCommitWriteBatchLatency : 30 rocksdbCommitFlushLatency : 53 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 351 rocksdbCommitCheckpointLatency : 67 rocksdbCommitFileSyncLatency : 232 rocksdbTotalCompactionLatency : 206 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1232 updateTimeMs : 504 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 424664 rocksdbReadBlockCacheMissRatio : 9210
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [84]
+1829,1140
+ totalRocksDBLatency : 1140 rocksdbGetLatency : 157 rocksdbPutLatency : 34 rocksdbCommitWriteBatchLatency : 34 rocksdbCommitFlushLatency : 72 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 81 rocksdbCommitFileSyncLatency : 186 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 752 updateTimeMs : 387 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 389693 rocksdbReadBlockCacheMissRatio : 6803
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [85]
+1918,1143
+ totalRocksDBLatency : 1143 rocksdbGetLatency : 182 rocksdbPutLatency : 29 rocksdbCommitWriteBatchLatency : 29 rocksdbCommitFlushLatency : 65 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 76 rocksdbCommitFileSyncLatency : 192 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 734 updateTimeMs : 409 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 396747 rocksdbReadBlockCacheMissRatio : 4667
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [86]
+1921,1189
+ totalRocksDBLatency : 1189 rocksdbGetLatency : 224 rocksdbPutLatency : 29 rocksdbCommitWriteBatchLatency : 29 rocksdbCommitFlushLatency : 66 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 66 rocksdbCommitFileSyncLatency : 185 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 723 updateTimeMs : 466 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 411096 rocksdbReadBlockCacheMissRatio : 3329
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [87]
+2498,1736
+ totalRocksDBLatency : 1736 rocksdbGetLatency : 246 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 75 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 363 rocksdbCommitCheckpointLatency : 59 rocksdbCommitFileSyncLatency : 238 rocksdbTotalCompactionLatency : 208 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1257 updateTimeMs : 479 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 432916 rocksdbReadBlockCacheMissRatio : 8606
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [88]
+1845,1144
+ totalRocksDBLatency : 1144 rocksdbGetLatency : 167 rocksdbPutLatency : 30 rocksdbCommitWriteBatchLatency : 31 rocksdbCommitFlushLatency : 67 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 78 rocksdbCommitFileSyncLatency : 185 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 733 updateTimeMs : 410 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 404230 rocksdbReadBlockCacheMissRatio : 6923
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [89]
+2010,1197
+ totalRocksDBLatency : 1197 rocksdbGetLatency : 200 rocksdbPutLatency : 30 rocksdbCommitWriteBatchLatency : 30 rocksdbCommitFlushLatency : 68 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 72 rocksdbCommitFileSyncLatency : 185 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 752 updateTimeMs : 445 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 408495 rocksdbReadBlockCacheMissRatio : 4853
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [90]
+1898,1191
+ totalRocksDBLatency : 1191 rocksdbGetLatency : 220 rocksdbPutLatency : 30 rocksdbCommitWriteBatchLatency : 30 rocksdbCommitFlushLatency : 68 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 76 rocksdbCommitFileSyncLatency : 187 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 738 updateTimeMs : 453 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 424593 rocksdbReadBlockCacheMissRatio : 3507
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [91]
+2584,1837
+ totalRocksDBLatency : 1837 rocksdbGetLatency : 270 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 63 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 407 rocksdbCommitCheckpointLatency : 70 rocksdbCommitFileSyncLatency : 254 rocksdbTotalCompactionLatency : 218 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1319 updateTimeMs : 518 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 471961 rocksdbReadBlockCacheMissRatio : 9267
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [92]
+1906,1175
+ totalRocksDBLatency : 1175 rocksdbGetLatency : 169 rocksdbPutLatency : 30 rocksdbCommitWriteBatchLatency : 30 rocksdbCommitFlushLatency : 76 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 72 rocksdbCommitFileSyncLatency : 191 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 754 updateTimeMs : 420 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 427037 rocksdbReadBlockCacheMissRatio : 7294
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [93]
+1962,1206
+ totalRocksDBLatency : 1206 rocksdbGetLatency : 206 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 70 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 73 rocksdbCommitFileSyncLatency : 186 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 747 updateTimeMs : 458 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 433729 rocksdbReadBlockCacheMissRatio : 4992
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [94]
+2004,1240
+ totalRocksDBLatency : 1240 rocksdbGetLatency : 242 rocksdbPutLatency : 31 rocksdbCommitWriteBatchLatency : 31 rocksdbCommitFlushLatency : 65 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 79 rocksdbCommitFileSyncLatency : 192 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 741 updateTimeMs : 499 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 447320 rocksdbReadBlockCacheMissRatio : 3519
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [95]
+2667,1855
+ totalRocksDBLatency : 1855 rocksdbGetLatency : 270 rocksdbPutLatency : 30 rocksdbCommitWriteBatchLatency : 30 rocksdbCommitFlushLatency : 61 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 384 rocksdbCommitCheckpointLatency : 73 rocksdbCommitFileSyncLatency : 277 rocksdbTotalCompactionLatency : 225 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1330 updateTimeMs : 524 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 479148 rocksdbReadBlockCacheMissRatio : 9911
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [96]
+2326,1398
+ totalRocksDBLatency : 1398 rocksdbGetLatency : 259 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 70 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 70 rocksdbCommitFileSyncLatency : 218 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 788 updateTimeMs : 609 removeTimeMs : 0 numOfUpdatedRows : 21000 numInputRowSize : 390000 rocksdbReadBlockCacheHitCount : 666786 rocksdbReadBlockCacheMissRatio : 10075
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [97]
+2074,1277
+ totalRocksDBLatency : 1277 rocksdbGetLatency : 211 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 67 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 75 rocksdbCommitFileSyncLatency : 216 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 814 updateTimeMs : 463 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 456548 rocksdbReadBlockCacheMissRatio : 4467
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [98]
+2153,1296
+ totalRocksDBLatency : 1296 rocksdbGetLatency : 255 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 63 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 81 rocksdbCommitFileSyncLatency : 192 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 771 updateTimeMs : 524 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 478774 rocksdbReadBlockCacheMissRatio : 3156
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [99]
+2635,1890
+ totalRocksDBLatency : 1890 rocksdbGetLatency : 290 rocksdbPutLatency : 30 rocksdbCommitWriteBatchLatency : 30 rocksdbCommitFlushLatency : 66 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 406 rocksdbCommitCheckpointLatency : 62 rocksdbCommitFileSyncLatency : 241 rocksdbTotalCompactionLatency : 242 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1322 updateTimeMs : 568 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 509079 rocksdbReadBlockCacheMissRatio : 10076
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [100]
+1997,1397
+ totalRocksDBLatency : 1397 rocksdbGetLatency : 276 rocksdbPutLatency : 28 rocksdbCommitWriteBatchLatency : 28 rocksdbCommitFlushLatency : 68 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 77 rocksdbCommitFileSyncLatency : 191 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 736 updateTimeMs : 661 removeTimeMs : 0 numOfUpdatedRows : 21000 numInputRowSize : 390000 rocksdbReadBlockCacheHitCount : 701692 rocksdbReadBlockCacheMissRatio : 10462
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [101]
+1893,1270
+ totalRocksDBLatency : 1270 rocksdbGetLatency : 238 rocksdbPutLatency : 32 rocksdbCommitWriteBatchLatency : 32 rocksdbCommitFlushLatency : 71 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 78 rocksdbCommitFileSyncLatency : 184 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 738 updateTimeMs : 532 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 489764 rocksdbReadBlockCacheMissRatio : 4779
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [102]
+1687,1059
+ totalRocksDBLatency : 1059 rocksdbGetLatency : 149 rocksdbPutLatency : 31 rocksdbCommitWriteBatchLatency : 31 rocksdbCommitFlushLatency : 60 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 72 rocksdbCommitFileSyncLatency : 201 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 746 updateTimeMs : 312 removeTimeMs : 0 numOfUpdatedRows : 7000 numInputRowSize : 130000 rocksdbReadBlockCacheHitCount : 268701 rocksdbReadBlockCacheMissRatio : 1838
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [103]
+2750,1990
+ totalRocksDBLatency : 1990 rocksdbGetLatency : 313 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 66 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 424 rocksdbCommitCheckpointLatency : 78 rocksdbCommitFileSyncLatency : 270 rocksdbTotalCompactionLatency : 249 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1373 updateTimeMs : 617 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 544647 rocksdbReadBlockCacheMissRatio : 11447
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [104]
+2094,1416
+ totalRocksDBLatency : 1416 rocksdbGetLatency : 286 rocksdbPutLatency : 24 rocksdbCommitWriteBatchLatency : 24 rocksdbCommitFlushLatency : 62 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 75 rocksdbCommitFileSyncLatency : 194 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 741 updateTimeMs : 674 removeTimeMs : 0 numOfUpdatedRows : 21000 numInputRowSize : 390000 rocksdbReadBlockCacheHitCount : 729657 rocksdbReadBlockCacheMissRatio : 10861
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [105]
+1861,1233
+ totalRocksDBLatency : 1233 rocksdbGetLatency : 230 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 63 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 75 rocksdbCommitFileSyncLatency : 193 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 730 updateTimeMs : 502 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 505027 rocksdbReadBlockCacheMissRatio : 4759
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [106]
+1965,1314
+ totalRocksDBLatency : 1314 rocksdbGetLatency : 269 rocksdbPutLatency : 28 rocksdbCommitWriteBatchLatency : 28 rocksdbCommitFlushLatency : 60 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 82 rocksdbCommitFileSyncLatency : 186 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 746 updateTimeMs : 568 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 510293 rocksdbReadBlockCacheMissRatio : 3559
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [107]
+2758,1992
+ totalRocksDBLatency : 1992 rocksdbGetLatency : 307 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 63 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 463 rocksdbCommitCheckpointLatency : 70 rocksdbCommitFileSyncLatency : 286 rocksdbTotalCompactionLatency : 261 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1411 updateTimeMs : 581 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 551452 rocksdbReadBlockCacheMissRatio : 11905
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [108]
+1897,1243
+ totalRocksDBLatency : 1243 rocksdbGetLatency : 198 rocksdbPutLatency : 33 rocksdbCommitWriteBatchLatency : 33 rocksdbCommitFlushLatency : 81 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 76 rocksdbCommitFileSyncLatency : 190 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 778 updateTimeMs : 464 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 499451 rocksdbReadBlockCacheMissRatio : 7994
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [109]
+1999,1268
+ totalRocksDBLatency : 1268 rocksdbGetLatency : 243 rocksdbPutLatency : 29 rocksdbCommitWriteBatchLatency : 30 rocksdbCommitFlushLatency : 63 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 69 rocksdbCommitFileSyncLatency : 189 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 735 updateTimeMs : 532 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 524901 rocksdbReadBlockCacheMissRatio : 5878
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [110]
+2081,1312
+ totalRocksDBLatency : 1312 rocksdbGetLatency : 284 rocksdbPutLatency : 31 rocksdbCommitWriteBatchLatency : 31 rocksdbCommitFlushLatency : 68 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 64 rocksdbCommitFileSyncLatency : 186 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 740 updateTimeMs : 572 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 528644 rocksdbReadBlockCacheMissRatio : 4069
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [111]
+2706,1991
+ totalRocksDBLatency : 1991 rocksdbGetLatency : 317 rocksdbPutLatency : 24 rocksdbCommitWriteBatchLatency : 24 rocksdbCommitFlushLatency : 65 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 436 rocksdbCommitCheckpointLatency : 59 rocksdbCommitFileSyncLatency : 254 rocksdbTotalCompactionLatency : 262 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1381 updateTimeMs : 610 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 557509 rocksdbReadBlockCacheMissRatio : 13508
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [112]
+2387,1561
+ totalRocksDBLatency : 1561 rocksdbGetLatency : 339 rocksdbPutLatency : 29 rocksdbCommitWriteBatchLatency : 29 rocksdbCommitFlushLatency : 71 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 82 rocksdbCommitFileSyncLatency : 183 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 761 updateTimeMs : 799 removeTimeMs : 0 numOfUpdatedRows : 21000 numInputRowSize : 390000 rocksdbReadBlockCacheHitCount : 775371 rocksdbReadBlockCacheMissRatio : 11213
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [113]
+1956,1234
+ totalRocksDBLatency : 1234 rocksdbGetLatency : 248 rocksdbPutLatency : 23 rocksdbCommitWriteBatchLatency : 23 rocksdbCommitFlushLatency : 58 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 65 rocksdbCommitFileSyncLatency : 187 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 693 updateTimeMs : 541 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 533296 rocksdbReadBlockCacheMissRatio : 5179
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [114]
+2029,1310
+ totalRocksDBLatency : 1310 rocksdbGetLatency : 285 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 66 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 73 rocksdbCommitFileSyncLatency : 191 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 737 updateTimeMs : 572 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 541344 rocksdbReadBlockCacheMissRatio : 3819
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [115]
+2901,2047
+ totalRocksDBLatency : 2047 rocksdbGetLatency : 326 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 64 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 486 rocksdbCommitCheckpointLatency : 53 rocksdbCommitFileSyncLatency : 236 rocksdbTotalCompactionLatency : 277 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1422 updateTimeMs : 625 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 574333 rocksdbReadBlockCacheMissRatio : 14207
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [116]
+2245,1480
+ totalRocksDBLatency : 1480 rocksdbGetLatency : 316 rocksdbPutLatency : 30 rocksdbCommitWriteBatchLatency : 30 rocksdbCommitFlushLatency : 69 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 79 rocksdbCommitFileSyncLatency : 192 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 752 updateTimeMs : 727 removeTimeMs : 0 numOfUpdatedRows : 21000 numInputRowSize : 390000 rocksdbReadBlockCacheHitCount : 805289 rocksdbReadBlockCacheMissRatio : 11747
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [117]
+1988,1277
+ totalRocksDBLatency : 1277 rocksdbGetLatency : 253 rocksdbPutLatency : 28 rocksdbCommitWriteBatchLatency : 28 rocksdbCommitFlushLatency : 63 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 71 rocksdbCommitFileSyncLatency : 195 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 721 updateTimeMs : 555 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 549102 rocksdbReadBlockCacheMissRatio : 5158
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [118]
+2034,1355
+ totalRocksDBLatency : 1355 rocksdbGetLatency : 295 rocksdbPutLatency : 29 rocksdbCommitWriteBatchLatency : 29 rocksdbCommitFlushLatency : 68 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 72 rocksdbCommitFileSyncLatency : 189 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 761 updateTimeMs : 594 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 567733 rocksdbReadBlockCacheMissRatio : 3999
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [119]
+2987,2076
+ totalRocksDBLatency : 2076 rocksdbGetLatency : 335 rocksdbPutLatency : 29 rocksdbCommitWriteBatchLatency : 29 rocksdbCommitFlushLatency : 75 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 473 rocksdbCommitCheckpointLatency : 62 rocksdbCommitFileSyncLatency : 251 rocksdbTotalCompactionLatency : 286 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1449 updateTimeMs : 626 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 595017 rocksdbReadBlockCacheMissRatio : 15507
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [120]
+2244,1491
+ totalRocksDBLatency : 1491 rocksdbGetLatency : 327 rocksdbPutLatency : 31 rocksdbCommitWriteBatchLatency : 31 rocksdbCommitFlushLatency : 61 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 75 rocksdbCommitFileSyncLatency : 182 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 731 updateTimeMs : 760 removeTimeMs : 0 numOfUpdatedRows : 21000 numInputRowSize : 390000 rocksdbReadBlockCacheHitCount : 833980 rocksdbReadBlockCacheMissRatio : 11819
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [121]
+2064,1330
+ totalRocksDBLatency : 1330 rocksdbGetLatency : 275 rocksdbPutLatency : 29 rocksdbCommitWriteBatchLatency : 29 rocksdbCommitFlushLatency : 67 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 78 rocksdbCommitFileSyncLatency : 194 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 748 updateTimeMs : 581 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 599130 rocksdbReadBlockCacheMissRatio : 5721
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [122]
+2192,1387
+ totalRocksDBLatency : 1387 rocksdbGetLatency : 323 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 61 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 72 rocksdbCommitFileSyncLatency : 194 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 745 updateTimeMs : 642 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 606851 rocksdbReadBlockCacheMissRatio : 4196
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [123]
+3180,2240
+ totalRocksDBLatency : 2240 rocksdbGetLatency : 362 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 70 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 517 rocksdbCommitCheckpointLatency : 65 rocksdbCommitFileSyncLatency : 318 rocksdbTotalCompactionLatency : 297 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1563 updateTimeMs : 677 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 632709 rocksdbReadBlockCacheMissRatio : 16894
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [124]
+2416,1581
+ totalRocksDBLatency : 1581 rocksdbGetLatency : 354 rocksdbPutLatency : 33 rocksdbCommitWriteBatchLatency : 33 rocksdbCommitFlushLatency : 68 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 81 rocksdbCommitFileSyncLatency : 191 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 751 updateTimeMs : 830 removeTimeMs : 0 numOfUpdatedRows : 21000 numInputRowSize : 390000 rocksdbReadBlockCacheHitCount : 893260 rocksdbReadBlockCacheMissRatio : 12463
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [125]
+2360,1611
+ totalRocksDBLatency : 1611 rocksdbGetLatency : 423 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 58 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 69 rocksdbCommitFileSyncLatency : 186 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 715 updateTimeMs : 896 removeTimeMs : 0 numOfUpdatedRows : 21000 numInputRowSize : 390000 rocksdbReadBlockCacheHitCount : 920597 rocksdbReadBlockCacheMissRatio : 8023
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [126]
+2085,1404
+ totalRocksDBLatency : 1404 rocksdbGetLatency : 323 rocksdbPutLatency : 32 rocksdbCommitWriteBatchLatency : 32 rocksdbCommitFlushLatency : 75 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 74 rocksdbCommitFileSyncLatency : 185 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 756 updateTimeMs : 648 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 615967 rocksdbReadBlockCacheMissRatio : 4242
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [127]
+3021,2268
+ totalRocksDBLatency : 2268 rocksdbGetLatency : 385 rocksdbPutLatency : 25 rocksdbCommitWriteBatchLatency : 25 rocksdbCommitFlushLatency : 57 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 543 rocksdbCommitCheckpointLatency : 68 rocksdbCommitFileSyncLatency : 289 rocksdbTotalCompactionLatency : 308 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1535 updateTimeMs : 732 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 653558 rocksdbReadBlockCacheMissRatio : 18200
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [128]
+2345,1602
+ totalRocksDBLatency : 1602 rocksdbGetLatency : 365 rocksdbPutLatency : 33 rocksdbCommitWriteBatchLatency : 33 rocksdbCommitFlushLatency : 72 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 73 rocksdbCommitFileSyncLatency : 180 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 747 updateTimeMs : 855 removeTimeMs : 0 numOfUpdatedRows : 21000 numInputRowSize : 390000 rocksdbReadBlockCacheHitCount : 920252 rocksdbReadBlockCacheMissRatio : 12870
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [129]
+1972,1345
+ totalRocksDBLatency : 1345 rocksdbGetLatency : 287 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 65 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 69 rocksdbCommitFileSyncLatency : 187 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 732 updateTimeMs : 612 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 625474 rocksdbReadBlockCacheMissRatio : 6042
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [130]
+2084,1415
+ totalRocksDBLatency : 1415 rocksdbGetLatency : 336 rocksdbPutLatency : 30 rocksdbCommitWriteBatchLatency : 30 rocksdbCommitFlushLatency : 73 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 77 rocksdbCommitFileSyncLatency : 191 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 741 updateTimeMs : 674 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 634619 rocksdbReadBlockCacheMissRatio : 4669
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [131]
+3032,2220
+ totalRocksDBLatency : 2220 rocksdbGetLatency : 382 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 74 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 539 rocksdbCommitCheckpointLatency : 60 rocksdbCommitFileSyncLatency : 250 rocksdbTotalCompactionLatency : 319 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1497 updateTimeMs : 723 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 664600 rocksdbReadBlockCacheMissRatio : 19629
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [132]
+2282,1611
+ totalRocksDBLatency : 1611 rocksdbGetLatency : 364 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 60 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 83 rocksdbCommitFileSyncLatency : 191 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 762 updateTimeMs : 848 removeTimeMs : 0 numOfUpdatedRows : 21000 numInputRowSize : 390000 rocksdbReadBlockCacheHitCount : 942846 rocksdbReadBlockCacheMissRatio : 13005
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [133]
+2378,1696
+ totalRocksDBLatency : 1696 rocksdbGetLatency : 443 rocksdbPutLatency : 27 rocksdbCommitWriteBatchLatency : 27 rocksdbCommitFlushLatency : 76 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 76 rocksdbCommitFileSyncLatency : 192 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 758 updateTimeMs : 937 removeTimeMs : 0 numOfUpdatedRows : 21000 numInputRowSize : 390000 rocksdbReadBlockCacheHitCount : 968562 rocksdbReadBlockCacheMissRatio : 8441
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [134]
+2068,1417
+ totalRocksDBLatency : 1417 rocksdbGetLatency : 349 rocksdbPutLatency : 29 rocksdbCommitWriteBatchLatency : 29 rocksdbCommitFlushLatency : 70 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 84 rocksdbCommitFileSyncLatency : 182 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 733 updateTimeMs : 684 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 661850 rocksdbReadBlockCacheMissRatio : 4647
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [135]
+3243,2384
+ totalRocksDBLatency : 2384 rocksdbGetLatency : 430 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 68 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 573 rocksdbCommitCheckpointLatency : 64 rocksdbCommitFileSyncLatency : 280 rocksdbTotalCompactionLatency : 328 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1583 updateTimeMs : 801 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 689070 rocksdbReadBlockCacheMissRatio : 21037
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [136]
+2320,1598
+ totalRocksDBLatency : 1598 rocksdbGetLatency : 380 rocksdbPutLatency : 29 rocksdbCommitWriteBatchLatency : 29 rocksdbCommitFlushLatency : 61 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 71 rocksdbCommitFileSyncLatency : 185 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 726 updateTimeMs : 871 removeTimeMs : 0 numOfUpdatedRows : 21000 numInputRowSize : 390000 rocksdbReadBlockCacheHitCount : 973633 rocksdbReadBlockCacheMissRatio : 13384
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [137]
+2082,1377
+ totalRocksDBLatency : 1377 rocksdbGetLatency : 309 rocksdbPutLatency : 26 rocksdbCommitWriteBatchLatency : 26 rocksdbCommitFlushLatency : 60 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 75 rocksdbCommitFileSyncLatency : 189 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 724 updateTimeMs : 652 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 669346 rocksdbReadBlockCacheMissRatio : 6488
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [138]
+2191,1462
+ totalRocksDBLatency : 1462 rocksdbGetLatency : 365 rocksdbPutLatency : 33 rocksdbCommitWriteBatchLatency : 33 rocksdbCommitFlushLatency : 67 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 82 rocksdbCommitFileSyncLatency : 188 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 743 updateTimeMs : 719 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 681919 rocksdbReadBlockCacheMissRatio : 5178
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [139]
+3311,2479
+ totalRocksDBLatency : 2479 rocksdbGetLatency : 443 rocksdbPutLatency : 23 rocksdbCommitWriteBatchLatency : 23 rocksdbCommitFlushLatency : 65 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 618 rocksdbCommitCheckpointLatency : 71 rocksdbCommitFileSyncLatency : 304 rocksdbTotalCompactionLatency : 341 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 1656 updateTimeMs : 822 removeTimeMs : 0 numOfUpdatedRows : 14000 numInputRowSize : 260000 rocksdbReadBlockCacheHitCount : 745757 rocksdbReadBlockCacheMissRatio : 22596
+********************************************************************************************
+Query Name [Batch Id]: linear-road-Q2 [140]
+2739,1986
+ totalRocksDBLatency : 1986 rocksdbGetLatency : 533 rocksdbPutLatency : 35 rocksdbCommitWriteBatchLatency : 35 rocksdbCommitFlushLatency : 70 rocksdbCommitCompactLatency : 0 rocksdbCommitPauseLatency : 0 rocksdbCommitCheckpointLatency : 74 rocksdbCommitFileSyncLatency : 190 rocksdbTotalCompactionLatency : 0 rocksdbWriterStallLatency : 0 TotalcommitTimeMs : 768 updateTimeMs : 1218 removeTimeMs : 0 numOfUpdatedRows : 28000 numInputRowSize : 520000 rocksdbReadBlockCacheHitCount : 1373615 rocksdbReadBlockCacheMissRatio : 17123

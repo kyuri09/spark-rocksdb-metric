@@ -1,0 +1,204 @@
+# Veusz saved document (version 3.4)
+# Saved at 2023-04-21T04:37:52.839174
+
+SetCompatLevel(1)
+AddImportPath('C:\\Users\\kyuri\\Desktop\\석사과정\\그래프')
+ImportString('`95-1`(numeric)','''
+5.800000e+01
+6.900000e+01
+''')
+ImportString('`95-2`(numeric)','''
+2.000000e+00
+2.000000e+00
+''')
+ImportString('`95-3`(numeric)','''
+4.000000e+00
+4.000000e+00
+''')
+ImportString('`95-4`(numeric)','''
+1.800000e+01
+1.600000e+01
+''')
+ImportString('`95-5`(numeric)','''
+1.800000e+01
+8.000000e+00
+''')
+ImportString('`99-1`(numeric)','''
+0.000000e+00
+3.500000e+01
+''')
+ImportString('`99-2`(numeric)','''
+2.000000e+00
+2.000000e+00
+''')
+ImportString('`99-3`(numeric)','''
+4.200000e+01
+3.900000e+01
+''')
+ImportString('`99-4`(numeric)','''
+1.400000e+01
+1.100000e+01
+''')
+ImportString('`99-5`(numeric)','''
+4.200000e+01
+1.300000e+01
+''')
+SetDataText('new dataset', [
+    '95th',
+    '99th',
+    '',
+])
+ImportString('`new dataset 1`(numeric)','''
+1.300000e-01
+4.400000e-01
+7.500000e-01
+''')
+ImportString('`new dataset 2`(numeric)','''
+2.500000e-01
+5.650000e-01
+8.800000e-01
+''')
+Set('colorTheme', 'default-latest')
+Set('StyleSheet/axis-function/autoRange', 'next-tick')
+Add('page', name='page1', autoadd=False)
+To('page1')
+Set('hide', False)
+Set('width', '24.563cm')
+Set('height', '14.905cm')
+Set('Background/hide', True)
+Add('graph', name='graph1', autoadd=False)
+To('graph1')
+Set('hide', False)
+Set('leftMargin', '3.902cm')
+Set('rightMargin', '4.301cm')
+Set('topMargin', '1.112cm')
+Set('bottomMargin', '2.97cm')
+Set('Background/hide', True)
+Set('Border/transparency', 0)
+Set('Border/hide', True)
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('hide', False)
+Set('label', '95th')
+Set('min', -15.0)
+Set('max', 22.0)
+Set('mode', 'labels')
+Set('autoMirror', False)
+Set('reflect', False)
+Set('lowerPosition', 0.0)
+Set('upperPosition', 0.5)
+Set('Line/hide', False)
+Set('Label/size', '24pt')
+Set('Label/bold', True)
+Set('Label/hide', False)
+Set('Label/offset', '0pt')
+Set('Label/position', 'centre')
+Set('TickLabels/size', '12pt')
+Set('TickLabels/style', 'Bold')
+Set('TickLabels/italic', False)
+Set('TickLabels/bold', False)
+Set('TickLabels/underline', False)
+Set('TickLabels/hide', False)
+Set('TickLabels/format', 'Auto')
+Set('MajorTicks/hide', True)
+Set('MinorTicks/hide', True)
+To('..')
+Add('axis', name='Grep-y', autoadd=False)
+To('Grep-y')
+Set('label', '')
+Set('min', 0.0)
+Set('max', 100.0)
+Set('log', False)
+Set('autoMirror', False)
+Set('outerticks', True)
+Set('datascale', 1.0)
+Set('direction', 'vertical')
+Set('upperPosition', 0.6)
+Set('otherPosition', 0.0)
+Set('Line/hide', False)
+Set('Label/size', '34pt')
+Set('Label/italic', False)
+Set('Label/bold', False)
+Set('Label/underline', False)
+Set('Label/hide', False)
+Set('Label/atEdge', False)
+Set('TickLabels/size', '24pt')
+Set('TickLabels/underline', False)
+Set('MajorTicks/hide', False)
+Set('MinorTicks/hide', True)
+To('..')
+Add('bar', name='GAG', autoadd=False)
+To('GAG')
+Set('lengths', ('95-1', '95-2', '95-3', '95-4', '95-5'))
+Set('posn', [-5.0, 10.0])
+Set('direction', 'vertical')
+Set('mode', 'stacked')
+Set('keys', ('Compaction', 'Flush', 'Get', 'FileSync', 'Etc'))
+Set('yAxis', 'Grep-y')
+Set('labels', '')
+Set('barfill', 0.6)
+Set('groupfill', 0.9)
+Set('BarFill/fills', [('solid', '#ff5500', False, 0, '1pt', 'solid', '2pt', 'background', 0, True), ('solid', '#ffaa7f', False, 0, '1pt', 'solid', '2pt', 'background', 0, True), ('solid', '#aaffff', False, 0, '1pt', 'solid', '2pt', 'background', 0, True), ('solid', '#555500', False, 0, '1pt', 'solid', '2pt', 'background', 0, True), ('solid', '#ffaa7f', False, 0, '1pt', 'solid', '2pt', 'background', 0, True)])
+Set('BarLine/lines', [])
+To('..')
+Add('bar', name='bar1', autoadd=False)
+To('bar1')
+Set('lengths', ('Grep',))
+Set('posn', [])
+Set('hide', False)
+Set('labels', 'new dataset')
+Set('ErrorBarLine/style', 'solid')
+To('..')
+Add('key', name='key1', autoadd=False)
+To('key1')
+Set('Text/size', '20pt')
+Set('Text/bold', False)
+Set('Background/hide', True)
+Set('Border/hide', True)
+Set('horzPosn', 'manual')
+Set('vertPosn', 'manual')
+Set('horzManual', -0.024079568657478206)
+Set('vertManual', 0.6897988505747127)
+Set('columns', 3)
+To('..')
+Add('bar', name='bar2', autoadd=False)
+To('bar2')
+Set('lengths', ('99-1', '99-2', '99-3', '99-4', '99-5'))
+Set('posn', [-5.0, 10.0])
+Set('direction', 'vertical')
+Set('mode', 'stacked')
+Set('keys', ('',))
+Set('xAxis', "x'")
+Set('yAxis', 'Grep-y')
+Set('labels', '')
+Set('barfill', 0.6)
+Set('groupfill', 0.9)
+Set('BarFill/fills', [('solid', '#ff5500', False, 0, '1pt', 'solid', '2pt', 'background', 0, True), ('solid', '#005500', False, 0, '1pt', 'solid', '2pt', 'background', 0, True), ('solid', '#aaffff', False, 0, '1pt', 'solid', '2pt', 'background', 0, True), ('solid', '#555500', False, 0, '1pt', 'solid', '2pt', 'background', 0, True), ('solid', '#ffaa7f', False, 0, '1pt', 'solid', '2pt', 'background', 0, True)])
+Set('BarLine/lines', [])
+To('..')
+Add('axis', name="x'", autoadd=False)
+To("x'")
+Set('hide', False)
+Set('label', '99th')
+Set('min', -15.0)
+Set('max', 22.0)
+Set('mode', 'labels')
+Set('autoMirror', False)
+Set('lowerPosition', 0.5)
+Set('upperPosition', 1.0)
+Set('Line/hide', False)
+Set('Label/size', '24pt')
+Set('Label/bold', True)
+Set('Label/hide', False)
+Set('TickLabels/size', '12pt')
+Set('TickLabels/style', 'Bold')
+Set('TickLabels/italic', False)
+Set('TickLabels/bold', False)
+Set('TickLabels/underline', False)
+Set('TickLabels/hide', False)
+Set('TickLabels/format', 'Auto')
+Set('MajorTicks/hide', True)
+Set('MinorTicks/hide', True)
+To('..')
+To('..')
+To('..')
